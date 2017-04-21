@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SAM-M8Q
+D Multi-GNSS module with integrated ceramic patch antenna
+K GNNS GPS antenna
+F https://www.u-blox.com/sites/default/files/SAM-M8Q_DataSheet_%28UBX-16012619%29.pdf
+$ENDCMP
+#
+$CMP TCR2LE33LM
+D Low Drop-Out Linear Voltage Regulator 3.3V SOT-553 package
+K regulator 3.3V sot-553
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=28807&prodName=TCR2LE18
+$ENDCMP
+#
+#End Doc Library
