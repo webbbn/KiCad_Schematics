@@ -1,4 +1,4 @@
-update=4/9/2017 10:34:25 AM
+update=4/20/2017 6:53:51 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -37,7 +37,7 @@ SpiceUseNetNumbers=0
 LabSize=60
 [eeschema]
 version=1
-LibDir=C:/Users/webbb/Documents/KiCad/modules
+LibDir=C:/Users/webbb/Documents/KiCad/modules;../lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -72,3 +72,4 @@ LibName30=stm32
 LibName31=switches
 LibName32=MPU-9250
 LibName33=local
+LibName34=gps
