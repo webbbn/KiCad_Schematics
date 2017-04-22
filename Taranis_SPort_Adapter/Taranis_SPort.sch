@@ -29,7 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:local
-LIBS:Taranis SPort-cache
+LIBS:Taranis_SPort-cache
 EELAYER 25 0
 EELAYER END
 $Descr USLetter 11000 8500
@@ -377,12 +377,12 @@ NoConn ~ 3450 3400
 Text Notes 6450 7150 0    60   ~ 0
 Copyright 2017 Brian Webb\nReleased under the GNU General Public License V3.0
 $Comp
-L MCP1754ST-3302E/MB-fixed U1
-U 1 1 58F8177D
+L MCP1754ST-3302E/MB-SOT-23 U1
+U 1 1 58FAD359
 P 4500 3200
 F 0 "U1" H 4600 3050 50  0000 C CNN
-F 1 "MCP1754ST-3302E/MB-fixed" H 4500 3350 50  0000 C CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23_Handsoldering" H 4500 3200 50  0001 C CNN
+F 1 "MCP1754ST-3302E/MB-SOT-23" H 4500 3350 50  0000 C CNN
+F 2 "" H 4500 3200 50  0001 C CNN
 F 3 "" H 4500 3200 50  0001 C CNN
 	1    4500 3200
 	1    0    0    -1  
