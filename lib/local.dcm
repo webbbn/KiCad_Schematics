@@ -18,4 +18,10 @@ K Inverter Schmitt Trigger
 F https://www.fairchildsemi.com/datasheets/NC/NC7WZ14.pdf
 $ENDCMP
 #
+$CMP NSR30CM3
+D Dual schottky diode, common cathode
+K diode
+F http://www.onsemi.com/pub/Collateral/NSR30CM3T5G-D.PDF
+$ENDCMP
+#
 #End Doc Library
