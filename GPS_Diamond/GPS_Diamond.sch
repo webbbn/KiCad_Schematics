@@ -33,14 +33,14 @@ LIBS:switches
 LIBS:MPU-9250
 LIBS:local
 LIBS:gps
-LIBS:MiniGPSIMU-cache
+LIBS:GPS_Diamond-cache
 EELAYER 25 0
 EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 2
-Title "GPS IMU"
-Date "2017-04-05"
+Title "GPS Diamond"
+Date "2017-04-29"
 Rev "1.0"
 Comp ""
 Comment1 ""

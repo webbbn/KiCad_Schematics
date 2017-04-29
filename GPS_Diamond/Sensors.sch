@@ -33,7 +33,7 @@ LIBS:switches
 LIBS:MPU-9250
 LIBS:local
 LIBS:gps
-LIBS:MiniGPSIMU-cache
+LIBS:GPS_Diamond-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
