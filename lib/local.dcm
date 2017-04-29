@@ -6,10 +6,34 @@ K Dual N-Channel P-Channel MOSFET
 F https://www.diodes.com/assets/Datasheets/DMG6602SVT.pdf
 $ENDCMP
 #
+$CMP FXOS8700CQ
+D 6-axis sensor with integrated linear accelerometer and magnetometer
+K accelerometer magnetometer imu 6-axis
+F https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/FXOS8700CQ.pdf
+$ENDCMP
+#
 $CMP MCP1754ST-5002E/MB-SOT-23
 D MCP1754ST, Fixed 150mA Low Dropout Voltage Regulator, Positive
 K REGULATOR LDO
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf
+$ENDCMP
+#
+$CMP MIC5219-3.0BM5
+D 350/550mA 3.3/1.8V dual voltage regulator
+K dual linear low dropout regulator fixed ultra-low-noise
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5350.pdf
+$ENDCMP
+#
+$CMP MIC5350-3.3/18YMT
+D 500mA LDO fixed output voltage 3.3V ultra-low-noise
+K linear low dropout Regulator fixed ultra-low-noise
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5219.pdf
+$ENDCMP
+#
+$CMP MS5637
+D An ultra-compact micro altimeter
+K barometer pressure sensor altimeter
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5637-02BA03&DocType=Data+Sheet&DocLang=English
 $ENDCMP
 #
 $CMP NC7WZ14P6X
@@ -22,6 +46,17 @@ $CMP NSR30CM3
 D Dual schottky diode, common cathode
 K diode
 F http://www.onsemi.com/pub/Collateral/NSR30CM3T5G-D.PDF
+$ENDCMP
+#
+$CMP TCR2LE33LM
+D 3.3V 200mA linear voltage regulator
+K linear voltage regulator
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=28807&prodName=TCR2LE18
+$ENDCMP
+#
+$CMP USB_OTG
+D USB mini/micro connector
+K connector USB
 $ENDCMP
 #
 #End Doc Library
