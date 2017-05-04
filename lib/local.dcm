@@ -42,6 +42,12 @@ K linear low dropout Regulator fixed ultra-low-noise
 F http://ww1.microchip.com/downloads/en/devicedoc/mic5219.pdf
 $ENDCMP
 #
+$CMP MPM3620A
+D a synchronous, rectified, step-down module converter with an integrated inductor, two capacitors, and power MOSFETs
+K step-down regulator DC-DC converter
+F http://www.monolithicpower.com/DesktopModules/DocumentManage/API/Document/getDocument?id=3961
+$ENDCMP
+#
 $CMP MS5637
 D An ultra-compact micro altimeter
 K barometer pressure sensor altimeter
@@ -58,6 +64,12 @@ $CMP NSR30CM3
 D Dual schottky diode, common cathode
 K diode
 F http://www.onsemi.com/pub/Collateral/NSR30CM3T5G-D.PDF
+$ENDCMP
+#
+$CMP STM32L021D4P6
+D Access line ultra-low-power 32-bit MCU ARM®-based Cortex®-M0+, 16KB Flash, 2KB SRAM, 512B EEPROM, ADC, AES
+K STM32 MCU Cortex M0
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/86/a6/5f/95/33/50/4e/d6/DM00206858.pdf/files/DM00206858.pdf/jcr:content/translations/en.DM00206858.pdf
 $ENDCMP
 #
 $CMP TCR2LE33LM
