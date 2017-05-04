@@ -18,6 +18,12 @@ K accelerometer magnetometer imu 6-axis
 F https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/FXOS8700CQ.pdf
 $ENDCMP
 #
+$CMP LTC2946
+D A rail-to-rail system monitor that measures current, voltage, power, charge and energ
+K current voltage monitor power management
+F http://cds.linear.com/docs/en/datasheet/2946fa.pdf
+$ENDCMP
+#
 $CMP MCP1754ST-5002E/MB-SOT-23
 D MCP1754ST, Fixed 150mA Low Dropout Voltage Regulator, Positive
 K REGULATOR LDO
