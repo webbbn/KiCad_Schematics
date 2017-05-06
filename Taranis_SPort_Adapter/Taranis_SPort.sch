@@ -373,7 +373,6 @@ Wire Wire Line
 	3500 3700 3500 3500
 Wire Wire Line
 	3500 3500 3450 3500
-NoConn ~ 3450 3400
 Text Notes 6450 7150 0    60   ~ 0
 Copyright 2017 Brian Webb\nReleased under the GNU General Public License V3.0
 $Comp
@@ -387,4 +386,9 @@ F 3 "" H 4500 3200 50  0001 C CNN
 	1    4500 3200
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	3450 3400 3650 3400
+Wire Wire Line
+	3650 3400 3650 5300
+Connection ~ 3650 5300
 $EndSCHEMATC
