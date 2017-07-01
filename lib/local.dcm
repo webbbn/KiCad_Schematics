@@ -48,6 +48,12 @@ K linear low dropout Regulator fixed ultra-low-noise
 F http://ww1.microchip.com/downloads/en/devicedoc/mic5219.pdf
 $ENDCMP
 #
+$CMP MIC5353-3.3YMT-TR
+D 500mA LDO fixed output voltage 3.3V ultra-low-noise
+K linear low dropout Regulator fixed ultra-low-noise
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579989
+$ENDCMP
+#
 $CMP MPM3620A
 D a synchronous, rectified, step-down module converter with an integrated inductor, two capacitors, and power MOSFETs
 K step-down regulator DC-DC converter
@@ -70,6 +76,12 @@ $CMP NSR30CM3
 D Dual schottky diode, common cathode
 K diode
 F http://www.onsemi.com/pub/Collateral/NSR30CM3T5G-D.PDF
+$ENDCMP
+#
+$CMP PAC1720
+D High-side bidirectional current sensing monitors with precision voltage measurement capabilities
+K voltage current monitor precision sense
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005386B.pdf
 $ENDCMP
 #
 $CMP STM32L021D4P6
