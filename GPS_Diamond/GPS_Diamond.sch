@@ -893,4 +893,6 @@ Wire Wire Line
 	2500 6150 2350 6150
 Wire Wire Line
 	2350 6150 2350 6200
+Text Notes 4350 6400 0    60   ~ 0
+CPH3225A
 $EndSCHEMATC
