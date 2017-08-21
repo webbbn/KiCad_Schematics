@@ -6,6 +6,16 @@ K NMOS n-mos n-mosfet
 F http://www.ti.com/lit/ds/symlink/csd16570q5b.pdf
 $ENDCMP
 #
+$CMP Ceralock
+D Two pin crystal, one ground/package pins (pin2) small symbol
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+$CMP Crystal_GND2_Small
+D Two pin crystal, one ground/package pins (pin2) small symbol
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
 $CMP DMG6602SVT
 D Dual N and P Channel MOSFET, 30V Vds, 2.7A Id, 100mΩ Rds @ 4.5V Vgs, TSOT26
 K Dual N-Channel P-Channel MOSFET
