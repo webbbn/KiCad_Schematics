@@ -1,0 +1,22 @@
+Refs,Value,Footprint,QTY,MFR,MPN,SPR,SPN
+SW1,SW_Push,Buttons_Switches_SMD:SW_SPST_B3U-1000P,1,Omron Electronics Inc,B3U-1000P,Digikey,SW1020CT-ND
+C2;C8;C9;C10;C4,0.1uF,Capacitors_SMD:C_0402,5,Murata Electronics North America,GRM155R70J104KA01D,Digikey,490-6319-1-ND
+C6,10nF,Capacitors_SMD:C_0402,1,Murata Electronics North America,GRM155R60J103KA01D,Digikey,490-6286-1-ND
+C3;C1;C5,1uF,Capacitors_SMD:C_0402,3,Murata Electronics North America,GRT155C80J105ME01D,Digikey,490-12234-1-ND
+C7,4.7uF,Capacitors_SMD:C_0402,1,Murata Electronics North America,GRM155R60J475ME47D,Digikey,490-5915-1-ND
+J3;J4,CONN_01X04_MALE,Connectors_JST:JST_SH_SM04B-SRSS-TB_04x1.00mm_Angled,2,JST Sales America Inc.,SM04B-SRSS-TB(LF)(SN),Digikey,55-1804-1-ND
+U2,STM32F303CC,Housings_QFP:LQFP-48_7x7mm_Pitch0.5mm,1,STMicroelectronics,STM32F303CCT6,Digikey,497-13318-ND
+D2,Blue,LEDs:LED_0402,1,Dialight,5973607502F,Digikey,350-3847-ND
+D5,Green,LEDs:LED_0402,1,Dialight,5973327507F,Digikey,350-3854-1-ND
+D3,Red,LEDs:LED_0402,1,Dialight,5973007507F,Digikey,350-3851-1-ND
+D4,Yellow,LEDs:LED_0402,1,Dialight,5973407507F,Digikey,350-3855-1-ND
+J5;J6;J7;J8,CONN_01X01_MALE,Measurement_Points:Measurement_Point_Square-SMD-Pad_Small,4,,,,
+R3;R4;R5;R6,100R,Resistors_SMD:R_0402,4,Panasonic Electronic Components,RA-2AED101X,Digikey,P100DECT-ND
+R7;R8,10k,Resistors_SMD:R_0402,2,Panasonic Electronic Components,ERJ-2RHD1002X,Digikey,P15984CT-ND
+R1;R2,22R,Resistors_SMD:R_0402,2,Panasonic Electronic Components,ERA-2AKD220X,Digikey,P22DDCT-ND
+Y1,Ceralock,local:CERALOCK-CSTE_G_A,1,Murata Electronics North America,CSTCE8M00G15C99-R0,Digikey,490-7857-1-ND
+U3,MIC5353-3.3YMT-TR,local:MIC-5353,1,Microchip Technology,MIC5353-3.3YMT-TR,Digikey,576-3680-1-ND
+U1,RFM22,local:RFM22,1,HopeRF,RFM22B,Anarduino,RFM22B
+D1,NSR30CM3,local:SOT-723,1,ON Semiconductor,NSR30CM3T5G,Digikey,NSR30CM3T5GOSCT-ND
+J2,CONN_COAXIAL,local:U.FL-COAX,1,Hirose Electric Co Ltd,U.FL-R-SMT(10),Digikey,H9161CT-ND
+J1,USB_OTG,local:USB_Micro-B-SMD,1,JST Sales America Inc.,UB-MC5ABR3-SD204-4S-1-TB NMP,Digikey,455-2885-1-ND
